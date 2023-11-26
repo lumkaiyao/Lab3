@@ -1,0 +1,20 @@
+Git clone <url>
+Git status
+Git add 
+Git commit -m 
+
+Add branch
+Git branch
+Git branch <new branch name>
+Git checkout <branch name>
+Git merge <branch to merge>
+
+Git remote add origin <github url>
+Git remote -v
+Git push –set-upstream origin master
+Git push -u origin
+
+Git tag -a v1.0 -m “comment”
+Git push origin v1.0
+
+Git submodule add <git submodule url>
