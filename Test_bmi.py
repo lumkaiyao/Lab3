@@ -7,7 +7,7 @@ def test_bmi_normal_weight():
     assert(result == 0)
 
 
-def test_bmi_under_weight():
+def test_bmi_under_weight(): #Testing for github integration with jira
     result=[]
     result=bmi.calculate_bmi(1.9,45)
     assert(result == -1)
